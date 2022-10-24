@@ -583,11 +583,12 @@ body {
   
     #email-input {
       width: 80%;
-      
+
     }
   
     #call-area p, #call-area #call-btn {
       font-size: 14px;
+      
       letter-spacing: 0;
     }
   
