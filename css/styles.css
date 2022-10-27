@@ -28,7 +28,15 @@ body {
   
   #logo {
     width: 75px;
+  
   }
+
+  #text-logo {
+    color: #38d1e9;
+    font-weight: bold;
+    font-size: 35px;
+  }
+
   
   .navbar-brand {
     padding: 0;
@@ -41,6 +49,12 @@ body {
   
   #navbar-links a {
     color: #FFF;
+  }
+
+  #navbar-links a:hover {
+    color: #38d1e9;
+    transition: 1s;
+    transform: scale(1.2)
   }
   
   .navbar-expand-lg .navbar-nav .nav-link {
